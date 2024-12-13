@@ -24,7 +24,7 @@ The RayMarching shader simulates a lava-like effect by projecting rays and apply
 4. **Light Diffuse & Specular**: Defines light interaction with the surface.
 
 <div align="left">
-  <img src="Assets/Images/raymarching.png" alt="RayMarching Shader" width="400">
+  <img src="Assets/Images/raymarching.png" alt="RayMarching Shader" width="500">
 </div>
 
 *Figure 1: Lava-like RayMarching effect.*
@@ -47,7 +47,7 @@ The Fire Shader creates a realistic flame effect using particles, textures, and 
 
 
 <div align="left">
-  <img src="Assets/Images/fire1.png" alt="Fire Shader" width="400">
+  <img src="Assets/Images/fire1.png" alt="Fire Shader" width="500">
 </div>
 
 *Figure 2: Fire effect created with the Fire Shader.*
@@ -73,9 +73,9 @@ The Flexible Shader is designed for versatile effects such as Gaussian Blur, foc
 
 ### Image Placeholder:
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="Assets/Images/alarm.png" alt="Image 1" width="400">
-  <img src="Assets/Images/underwater.png" alt="Image 2" width="400">
-  <img src="Assets/Images/focus.png" alt="Image 2" width="400">
+  <img src="Assets/Images/alarm.png" alt="Alarm" width="500">
+  <img src="Assets/Images/underwater.png" alt="Underwater" width="500">
+  <img src="Assets/Images/focus.png" alt="Focus" width="500">
 </div>
 
 *Figure 3: Alarm, Underwater and Focus examples of what is possible to do with this shader*
